@@ -1,5 +1,3 @@
-# springbootA576D
-springbootA576D党建工作考评系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
